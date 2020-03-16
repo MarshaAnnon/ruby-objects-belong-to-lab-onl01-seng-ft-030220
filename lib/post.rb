@@ -11,4 +11,4 @@ end
 post = Post.new
 post = Author.new
 
-post.title
+post.author
