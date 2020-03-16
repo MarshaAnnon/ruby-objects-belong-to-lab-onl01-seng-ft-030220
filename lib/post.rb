@@ -9,6 +9,6 @@ class Post
 end
 
 post = Post.new
-post = Author.new
+post.author = Author.new
 
 post.author = author
