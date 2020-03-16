@@ -12,4 +12,4 @@ end
 post = Post.new
 post.author = Author.new
 
-post.author = author
+post.author
