@@ -7,6 +7,7 @@ class Author
   def initialize
     @name = name
   end
+  
 end
 
 author = Author.new
